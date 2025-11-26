@@ -35,6 +35,12 @@ const Projects = () => {
 
 const data = [
   {
+    "name": "maison-bibliofil.fr",
+    "description": "A PrestaShop website built for an artisanal Provençal publishing house, featuring a refined front-end, optimized hosting, and a fully containerized deployment setup.",
+    "stack": "Php, PrestaShop, Docker, Javascript, MySQL, Portainer, Smarty",
+    "buttonLink": "https://maison-bibliofil.fr"
+  },
+  {
     "name": "Dreamachine.love",
     "description": "A fully dynamic website for Dreamachine, powered by a headless CMS with automated content updates.",
     "stack": "React, Strapi, Vercel, Cron Jobs",

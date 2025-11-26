@@ -37,7 +37,7 @@ const data = [
   {
     "name": "maison-bibliofil.fr",
   "description": "A PrestaShop website for an artisanal Provençal publishing house, with optimized hosting and a fully containerized setup.",
-    "stack": "Php, PrestaShop, Docker, Javascript, MySQL, Portainer, Smarty",
+    "stack": "Php, PrestaShop, Docker, Javascript, MySQL, Portainer",
     "buttonLink": "https://maison-bibliofil.fr"
   },
   {

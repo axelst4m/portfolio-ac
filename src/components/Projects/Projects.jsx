@@ -36,7 +36,7 @@ const Projects = () => {
 const data = [
   {
     "name": "maison-bibliofil.fr",
-    "description": "A PrestaShop website built for an artisanal Provençal publishing house, featuring a refined front-end, optimized hosting, and a fully containerized deployment setup.",
+  "description": "A PrestaShop website for an artisanal Provençal publishing house, with optimized hosting and a fully containerized setup.",
     "stack": "Php, PrestaShop, Docker, Javascript, MySQL, Portainer, Smarty",
     "buttonLink": "https://maison-bibliofil.fr"
   },
